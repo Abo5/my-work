@@ -1,7 +1,7 @@
 # my-work
 Hello, this repository contains all my work and the projects I've worked on. You can access any project you want in the README.md file below.
 
-
+![copy_D5DB85D6-164F-4CEE-A174-5E3CBD887B17](https://github.com/user-attachments/assets/65f07b08-1cd6-4280-83db-8ad8d26952d6)
 ![copy_550B0158-8816-4138-8A9C-EA0B6446DAF3](https://github.com/user-attachments/assets/ca277098-2cf3-490f-9a06-8585864bf28c)
 ![copy_22FE81DA-850D-4E04-875F-4163CCB350EC](https://github.com/user-attachments/assets/6cef2c0e-56bd-46b6-b1c3-d5a24e8e3a47)
 ![329745841-887a4bcf-8319-4072-ab8a-5a372b9f11b2](https://github.com/user-attachments/assets/655b8cf4-399f-4495-ba9a-ce7d7b6cad3a)
