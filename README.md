@@ -1,5 +1,15 @@
 # my-work
 Hello, this repository contains all my work and the projects I've worked on. You can access any project you want in the README.md file below.
+<img width="1440" alt="‏لقطة الشاشة 2024-10-06 في 1 24 33 ص" src="https://github.com/user-attachments/assets/b89c10cd-63b2-457e-afbc-2cff59b722a3">
+<img width="1440" alt="‏لقطة الشاشة 2024-10-06 في 1 24 42 ص" src="https://github.com/user-attachments/assets/eda4bc77-a7e8-4823-936e-4072f70791cd">
+<img width="1440" alt="‏لقطة الشاشة 2024-10-06 في 1 24 56 ص" src="https://github.com/user-attachments/assets/4bc59178-9caf-4635-a1b8-e5340eb7a7cd">
+<img width="1440" alt="‏لقطة الشاشة 2024-10-06 في 1 25 10 ص" src="https://github.com/user-attachments/assets/ad94d096-a5ef-46cd-b374-e3a9d59184ec">
+<img width="1440" alt="‏لقطة الشاشة 2024-10-06 في 1 25 25 ص" src="https://github.com/user-attachments/assets/2c0b8836-f8a2-4e27-8e6e-9f55050fc2d8">
+<img width="1440" alt="‏لقطة الشاشة 2024-10-06 في 1 26 07 ص" src="https://github.com/user-attachments/assets/fb0b85df-2384-4b08-88ba-175390afb688">
+<img width="1440" alt="‏لقطة الشاشة 2024-10-06 في 1 26 12 ص" src="https://github.com/user-attachments/assets/08c21076-bb76-458e-8d8b-4c38656232e6">
+<img width="1440" alt="‏لقطة الشاشة 2024-10-06 في 1 27 44 ص" src="https://github.com/user-attachments/assets/bda77794-3c00-4070-a67c-5eb2d07434d1">
+
+the code: https://github.com/user-attachments/assets/dd9e168f-336b-42ea-bb5e-066e34c3b4fe
 
 ![copy_D5DB85D6-164F-4CEE-A174-5E3CBD887B17](https://github.com/user-attachments/assets/65f07b08-1cd6-4280-83db-8ad8d26952d6)
 ![copy_550B0158-8816-4138-8A9C-EA0B6446DAF3](https://github.com/user-attachments/assets/ca277098-2cf3-490f-9a06-8585864bf28c)
